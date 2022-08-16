@@ -15,8 +15,8 @@
  * @wordpress-plugin
  * Plugin Name:       HDL Feedback Tool
  * Plugin URI:        https://hazesoft.co/
- * Description:       This plugin for enable the feedback features.
- * Version:           1.0.0
+ * Description:       This plugin for enable the feedback features for user and clients.
+ * Version:           1.0.1
  * Author:            Nabin Karki
  * Author URI:        https://hazesoft.co/
  * License:           GPL-2.0+

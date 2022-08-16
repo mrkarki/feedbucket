@@ -135,7 +135,7 @@ class Feedbucket
 		require_once plugin_dir_path(dirname(__FILE__)) . 'update/BFIGitHubPluginUploader.php';
 		//require_once( 'BFIGitHubPluginUploader.php' );
 		if (is_admin()) {
-			new BFIGitHubPluginUpdater(plugin_dir_path(dirname(__FILE__)), 'bfintal', "BFI-Core");
+			new BFIGitHubPluginUpdater(plugin_dir_path(dirname(__FILE__)), 'mrkarki', "feedbucket");
 		}
 
 		$this->loader = new Feedbucket_Loader();
